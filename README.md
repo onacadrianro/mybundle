@@ -45,8 +45,8 @@ This project is a PHP web application built with the MVC architecture. It provid
 
 To set up the project locally, follow these steps:
 
-1. Clone the repository: `git clone <repository-url>`
-2. Navigate to the project directory: `cd <project-directory>`
+1. Clone the repository: `git clone https://github.com/onacadrianro/mybundle.git`
+2. Navigate to the project directory: `cd mybundle`
 3. Set up a web server (e.g., Apache, Nginx) to serve the project files from the `public` directory.
 4. Configure the web server to route requests through the `public/index.php` file.
 5. Ensure PHP is installed and configured on your system.
