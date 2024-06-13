@@ -1,0 +1,24 @@
+# Ignore system files
+.DS_Store
+
+# Ignore Composer dependencies
+/vendor/
+
+# Ignore generated files
+/var/cache/
+/var/log/
+
+# Ignore log files
+*.log
+
+# Ignore IDE and editor-specific files
+.idea/
+*.swp
+*.swo
+.vscode/
+
+# Ignore operating system files
+._*
+.Spotlight-V100
+.Trashes
+Icon?
